@@ -1,6 +1,7 @@
 # oit
 ```
-Thanks for taking the time to look at this project! Pull this repo and follow the below instructions to get it working on your machine.
+Thanks for taking the time to look at this project! 
+Pull this repo and follow the below instructions to get it working on your machine.
 ```
 
 ## Project setup
